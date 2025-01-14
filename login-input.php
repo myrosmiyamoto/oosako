@@ -1,4 +1,5 @@
 <?php require 'header.php' ?>
+<h1>宮本の編集</h1>
 <h1>ネイルデザインアルバム</h1>
 <h2>ログイン</h2>
 <form action="login-output.php" method="post">
